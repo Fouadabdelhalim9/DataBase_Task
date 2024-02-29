@@ -1,0 +1,8 @@
+org\entities\Product.class
+org\entities\Branch.class
+org\entities\Brand.class
+org\entities\ProductSize.class
+org\entities\Category.class
+org\entities\City.class
+org\entities\Size.class
+org\entities\Zone.class
